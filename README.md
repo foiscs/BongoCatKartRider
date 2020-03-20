@@ -11,8 +11,7 @@ Simple keytracker
 
 ![left](https://user-images.githubusercontent.com/38584993/77130369-097ec700-6a9b-11ea-84ef-78ea5d0f6a86.PNG)
 
-[![Video Label](http://img.youtube.com/vi/1pqqKzY3TTk/0.jpg)]
-(https://youtu.be/1pqqKzY3TTk?t=0s) Video Label
+[![Video Label](http://img.youtube.com/vi/1pqqKzY3TTk/0.jpg)](https://youtu.be/1pqqKzY3TTk?t=0s) Video Label
 
 
 
