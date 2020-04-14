@@ -1,9 +1,12 @@
 # BongoCatKartRider
 
-**나중에 하나로 만들 예정**  
+**하나로 만들었음**
+
 Simple keytracker 
 
-오른쪽 - 방향키 / right - arrow &#8595;   
+'O' - open option window
+
+ArrowKey - 방향키 / right - arrow &#8595;   
 
 ![right](https://user-images.githubusercontent.com/38584993/77130364-0257b900-6a9b-11ea-9926-dbed8b6eafc3.PNG)
 
